@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["JGM2WXT9AC.com.gymex.fitness"],
+        "components": [
+          { "/": "/r/*", "comment": "Referral links open Gymex to the code-capture route" }
+        ]
+      }
+    ]
+  }
+}
